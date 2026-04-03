@@ -173,7 +173,7 @@ Méthodes : `GameManager.save_game()` / `GameManager.load_game()`
 
 ## 🗺️ Roadmap
 
-- [ ] Implémenter le système de craft
+- [x] Implémenter le système de craft
 - [ ] Base-building (barricades, camp)
 - [ ] PNJ survivants avec dialogues ramifiés
 - [ ] Véhicules (voiture, vélo)
